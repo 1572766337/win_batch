@@ -1,0 +1,17 @@
+diskpart
+
+list disk
+
+select disk 0
+
+clean
+
+create partition primary size=20480
+active
+format quick
+
+create partition extended
+list partition
+create partition logical size=20480
+format quick
+list partition
