@@ -190,7 +190,7 @@ start explorer
 goto d
 :w
 echo.
-echo      媳妇，这都是专门为你做的，希望你喜欢，老公爱你，么么……
+echo      媳妇，这都是专门为你做的，希望你喜欢，爱你，么么……
 echo.
 echo                 へ　　　　 ／│
 echo          　 　/＼│　　　∠＿/
